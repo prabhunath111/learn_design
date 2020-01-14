@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "73487284673",
+    "firebase_url": "https://learn-design-b826e.firebaseio.com",
+    "project_id": "learn-design-b826e",
+    "storage_bucket": "learn-design-b826e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73487284673:android:1efe7c0e0a24e706e09740",
+        "android_client_info": {
+          "package_name": "com.example.learn_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73487284673-erk2p7790q2si1kkoljejbbu68lkgr5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.learn_design",
+            "certificate_hash": "3b3c4a739d48261753b7eaf7c39a5102f8bc075f"
+          }
+        },
+        {
+          "client_id": "73487284673-1tespshq58bet9psaii4etj7e68jl9t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXD0GaghYEvGcnQsUyC1MCF6hQQHYay1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73487284673-1tespshq58bet9psaii4etj7e68jl9t4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
